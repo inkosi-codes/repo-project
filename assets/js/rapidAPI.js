@@ -3,7 +3,7 @@ var sel_value; // Stage empty var
 
 populateCountryDropDown()
 function populateCountryDropDown() {
-    d3.json("Data/CountryCode.json").then(function (data) {
+    d3.json("./data/CountryCode.json").then(function (data) {
         data.forEach(function (item) {
             sel.append("option").property("value", item.Code).text(item.Name);
             sel_value = sel.property("value");
