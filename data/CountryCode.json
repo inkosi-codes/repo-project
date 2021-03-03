@@ -1,0 +1,146 @@
+[
+    {
+        "Code": "AR",
+        "Name": "Argentina"
+    },
+    {
+        "Code": "AU",
+        "Name": "Australia"
+    },
+    {
+        "Code": "BE",
+        "Name": "Belgium"
+    },
+    {
+        "Code": "BR",
+        "Name": "Brazil"
+    },
+    {
+        "Code": "CA",
+        "Name": "Canada"
+    },
+    {
+        "Code": "CO",
+        "Name": "Colombia"
+    },
+    {
+        "Code": "CZ",
+        "Name": "Czech Republic"
+    },
+    {
+        "Code": "FR",
+        "Name": "France"
+    },
+    {
+        "Code": "DE",
+        "Name": "Germany"
+    },
+    {
+        "Code": "GR",
+        "Name": "Greece"
+    },
+    {
+        "Code": "HK",
+        "Name": "Hong Kong"
+    },
+    {
+        "Code": "HU",
+        "Name": "Hungary"
+    },
+    {
+        "Code": "IS",
+        "Name": "Iceland"
+    },
+    {
+        "Code": "IN",
+        "Name": "India"
+    },
+    {
+        "Code": "IL",
+        "Name": "Israel"
+    },
+    {
+        "Code": "IT",
+        "Name": "Italy"
+    },
+    {
+        "Code": "JP",
+        "Name": "Japan"
+    },
+    {
+        "Code": "LT",
+        "Name": "Lithuania"
+    },
+    {
+        "Code": "MY",
+        "Name": "Malaysia"
+    },
+    {
+        "Code": "MX",
+        "Name": "Mexico"
+    },
+    {
+        "Code": "NL",
+        "Name": "Netherlands"
+    },
+    {
+        "Code": "PL",
+        "Name": "Poland"
+    },
+    {
+        "Code": "PT",
+        "Name": "Portugal"
+    },
+    {
+        "Code": "RO",
+        "Name": "Romania"
+    },
+    {
+        "Code": "RU",
+        "Name": "Russian Federation"
+    },
+    {
+        "Code": "SG",
+        "Name": "Singapore"
+    },
+    {
+        "Code": "SK",
+        "Name": "Slovakia"
+    },
+    {
+        "Code": "ZA",
+        "Name": "South Africa"
+    },
+    {
+        "Code": "KR",
+        "Name": "South Korea"
+    },
+    {
+        "Code": "ES",
+        "Name": "Spain"
+    },
+    {
+        "Code": "SE",
+        "Name": "Sweden"
+    },
+    {
+        "Code": "CH",
+        "Name": "Switzerland"
+    },
+    {
+        "Code": "TH",
+        "Name": "Thailand"
+    },
+    {
+        "Code": "TR",
+        "Name": "Turkey"
+    },
+    {
+        "Code": "GB",
+        "Name": "United Kingdom"
+    },
+    {
+        "Code": "US",
+        "Name": "United States"
+    }
+]
